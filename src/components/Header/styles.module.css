@@ -1,0 +1,32 @@
+.header{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding-top: 82px;
+    padding-bottom: 55px;
+
+    width: 100%;
+    background-color: var(--gray-700);
+}
+
+.logo{
+    width: 22px; 
+    height: 36px;
+    margin-right: 12px;
+}
+
+.to{
+    color: var(--blue);
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.do{
+    color: var(--purple-dark);
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+}
